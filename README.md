@@ -1,9 +1,7 @@
-# simplewebsite
+# Simplewebsite
 
----
-title: Get Started
-description: Blah Blah Blah
----
+# Here is my picture 
+![Picture](Pic.jpg)
 
 # Getting Starting
 
